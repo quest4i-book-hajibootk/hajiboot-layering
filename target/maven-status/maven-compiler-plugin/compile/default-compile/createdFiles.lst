@@ -1,5 +1,7 @@
 com/example/App.class
 com/example/AppConfig.class
+com/example/api/CustomerRestController$UserNotFoundException.class
+com/example/api/CustomerRestController.class
 com/example/service/CustomerService.class
 com/example/domain/Customer.class
 com/example/repository/CustomerRepository.class
